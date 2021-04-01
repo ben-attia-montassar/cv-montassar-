@@ -1,0 +1,64 @@
+#monta{
+    right: 100px;
+    width: 980px;
+    top: 1%;
+    left: 55%;
+    position: absolute;
+    height: 100px;
+    ;  
+    
+}
+.accueil{
+    right: auto; 
+    width: 1000px;
+    top: 2%;
+    bottom: 5%;
+    
+    position: absolute;
+
+}
+
+
+
+body{
+    font-size:large;
+    background-color: rgb(193, 216, 243) ;
+}
+
+#photo{
+    width: 80%;
+    padding: 2%;
+    margin: 10%;
+}
+#photo
+{
+    width: 293px;;
+   clip-path: ellipse() (50% 50%);
+   margin-left: 6px;
+   margin-top: 60px;
+    
+}
+ 
+    
+
+img {
+    width: 230px;;
+    border: 1px solid blue;
+  }
+ 
+
+hr {
+	display: block;
+	clear: both;
+	height: 0;
+    color: blue;
+	
+}
+hr:after {
+	content: "\273D \273D \273D";
+	height: 0;			
+	letter-spacing: 1em;
+	color : blue ;}
+
+      
+  
